@@ -1,0 +1,3 @@
+-keep class com.azertyai.keyboard.ime.AzertyInputMethodService { *; }
+-keep class com.azertyai.keyboard.context.ChatAccessibilityService { *; }
+-keep class com.azertyai.keyboard.ui.MainActivity { *; }

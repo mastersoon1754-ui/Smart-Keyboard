@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AZERTY</string>
+    <string name="keyboard_name">AZERTY</string>
+    <string name="subtype_fr_azerty">Français (AZERTY)</string>
+    <string name="accessibility_label">Contexte AZERTY</string>
+    <string name="accessibility_description">Lit le texte visible de l’application au premier plan uniquement lorsque vous demandez les 5, 10 ou 30 derniers messages dans le clavier, pour proposer une réponse. Rien n’est envoyé sans votre confirmation. Aucun historique n’est enregistré.</string>
+    <string name="ai_title">Assistant</string>
+    <string name="ai_close">Fermer</string>
+    <string name="ai_target_field">Champ</string>
+</resources>
