@@ -7,5 +7,7 @@ local.properties
 .DS_Store
 captures/
 *.apk
+!dist/*.apk
+*.idsig
 *.aab
 *.keystore
