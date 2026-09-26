@@ -4,6 +4,10 @@ Clavier français pour Android. L’application sert à l’activer et à la ré
 
 L’assistant (Gemini ou Mistral) est un panneau dans la barre du clavier. Il ne lit pas l’écran et n’écrit pas dans le champ tant que l’utilisateur ne le demande pas. Les clés API sont chiffrées dans le coffre Android, sur l’appareil.
 
+## Installation
+
+L’APK release signé (certificat de debug, pour installation directe) est dans `dist/AZERTY-1.0.0.apk`. Android 8 ou plus récent. Après installation : activer le clavier, puis le choisir comme méthode de saisie.
+
 ## Compilation
 
 ```bash
